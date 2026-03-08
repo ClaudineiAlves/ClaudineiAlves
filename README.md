@@ -159,7 +159,7 @@
 ## 🎵 Spotify Recently Played
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify Recently Played" />
+  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true](https://spotify-recently-played-readme.vercel.app/api?user=0xo3dzns1jfe86ztyl2t5qjmc&width={width})" alt="Spotify Recently Played" />
 </div>
 
 <br/>
