@@ -12,10 +12,10 @@ Busco **estágio em desenvolvimento Python, backend ou dados** — presencial, h
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [TransparênciaBR API](https://github.com/ClaudineiAlves/transparenciabr-api) | API REST assíncrona sobre 4 datasets do Portal da Transparência (CGU): arquitetura em camadas, testes com o serviço externo mockado e CI | FastAPI · PostgreSQL · SQLAlchemy 2 · Alembic · pytest · Docker · GitHub Actions |
+| [TransparênciaBR API](https://github.com/ClaudineiAlves/transparenciabr-api) ([demo](https://transparenciabr-api.onrender.com/)) | API REST assíncrona sobre 4 datasets do Portal da Transparência (CGU): arquitetura em camadas, testes com o serviço externo mockado e CI | FastAPI · PostgreSQL · SQLAlchemy 2 · Alembic · pytest · Docker · GitHub Actions |
 | [Portfólio](https://claudineiportfolio.vercel.app) ([código](https://github.com/ClaudineiAlves/claudinei_alves_developer_portfolio)) | Site bilíngue (PT/EN) com i18n próprio em React Context API | Next.js · TypeScript · Tailwind CSS · Vercel |
 | [Agente de Triagem de E-mail](https://github.com/ClaudineiAlves/triagem-email-llm) | Classifica e-mails em 8 categorias com LLM local, limiar de confiança de 0,6 e watchdog fora do container | Python · n8n · Ollama · Docker Compose · systemd |
-| [Skin Analyser](https://github.com/ClaudineiAlves/skin-analyser) | Triagem de lesões cutâneas (HAM10000): split por paciente e 8 CNNs em transfer learning | TensorFlow/Keras · OpenCV · Supabase · FastAPI |
+| [Skin Analyser](https://github.com/ClaudineiAlves/skin-analyser) | Triagem de lesões cutâneas (HAM10000): split por lesão e 8 CNNs em transfer learning | TensorFlow/Keras · OpenCV · Supabase · FastAPI |
 
 ### Stack
 
